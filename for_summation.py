@@ -1,6 +1,6 @@
 #for Summation code here
 
-num = int(input("Enter a number: "))
+num = int(input(""))
 total=0
 
 for i in range(num):
