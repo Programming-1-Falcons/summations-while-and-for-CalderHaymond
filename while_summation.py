@@ -1,6 +1,6 @@
 #while summation code following directions from Readme
 
-num = int(input("Enter a number: "))
+num = int(input())
 total = 0
 iteration=1
 
